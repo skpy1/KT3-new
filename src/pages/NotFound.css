@@ -1,0 +1,8 @@
+.notfound {
+    text-align: center;
+    padding: 50px;
+}
+.notfound button {
+    margin-top: 20px;
+    padding: 10px 20px;
+}

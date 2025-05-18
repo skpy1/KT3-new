@@ -1,0 +1,9 @@
+.rating {
+    font-size: 1.2rem;
+}
+.filled {
+    color: gold;
+}
+.empty {
+    color: #e6e6e6;
+}

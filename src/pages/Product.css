@@ -1,0 +1,17 @@
+.product-detail button {
+    margin-bottom: 20px;
+}
+.detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+    align-items: start;
+}
+.detail-grid img {
+    max-width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+.info h2 {
+    margin-top: 0;
+}
