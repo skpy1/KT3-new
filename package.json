@@ -2,6 +2,7 @@
   "name": "react-product-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://github.com/skpy1/KT3-new/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -9,7 +10,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
