@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/skpy1/KT3-new/static/css/main.4726965f.chunk.css",
-    "main.js": "/skpy1/KT3-new/static/js/main.7e8ad021.chunk.js",
-    "main.js.map": "/skpy1/KT3-new/static/js/main.7e8ad021.chunk.js.map",
+    "main.js": "/skpy1/KT3-new/static/js/main.c2b57184.chunk.js",
+    "main.js.map": "/skpy1/KT3-new/static/js/main.c2b57184.chunk.js.map",
     "runtime~main.js": "/skpy1/KT3-new/static/js/runtime~main.97ba187a.js",
     "runtime~main.js.map": "/skpy1/KT3-new/static/js/runtime~main.97ba187a.js.map",
-    "static/js/2.3e6c1315.chunk.js": "/skpy1/KT3-new/static/js/2.3e6c1315.chunk.js",
-    "static/js/2.3e6c1315.chunk.js.map": "/skpy1/KT3-new/static/js/2.3e6c1315.chunk.js.map",
+    "static/js/2.1c13325b.chunk.js": "/skpy1/KT3-new/static/js/2.1c13325b.chunk.js",
+    "static/js/2.1c13325b.chunk.js.map": "/skpy1/KT3-new/static/js/2.1c13325b.chunk.js.map",
     "index.html": "/skpy1/KT3-new/index.html",
-    "precache-manifest.d0c5d09e4409e806d2cc4e280f97481a.js": "/skpy1/KT3-new/precache-manifest.d0c5d09e4409e806d2cc4e280f97481a.js",
+    "precache-manifest.5bb86d6166a25d31334a6e5611d37acf.js": "/skpy1/KT3-new/precache-manifest.5bb86d6166a25d31334a6e5611d37acf.js",
     "service-worker.js": "/skpy1/KT3-new/service-worker.js",
     "static/css/main.4726965f.chunk.css.map": "/skpy1/KT3-new/static/css/main.4726965f.chunk.css.map"
   }
